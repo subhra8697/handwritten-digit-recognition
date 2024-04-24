@@ -1,4 +1,4 @@
-# __Handwritten Digit Recognition__
+<h1 align="center">Handwritten Digit Recognition</h1>
 
 This project is a Handwritten Digit Recognition system implemented using machine learning techniques.
 
